@@ -1,2 +1,2 @@
 # MusicOnlineWebsite
-音乐在线网页设计，设计技术：Vue，HTML，css，js
+音乐线网页设计，涉及技术：vue,html,css,js
